@@ -1,0 +1,1 @@
+.sidebar-row{display:flex;min-height:100vh}.sidebar-row .dashboard_sidebar{background:#9bb6ffbc;flex:1;min-width:200px;position:fixed;min-height:100vh}.sidebar-row .dashboard_sidebar .dashboard_nav{display:flex;flex-direction:column}.sidebar-row .dashboard_content{flex:4;margin-left:200px}
