@@ -1,1 +1,0 @@
-import{R as e}from"./vendor.32ae6308.js";import{B as r}from"./index.25888adf.js";import"./Dashboard.d4e3c1eb.js";import"./index.701e0ca0.js";const l=t=>{const{username:a}=t;return e.createElement("div",null,e.createElement("h1",null,"Dashboard HomePage"),e.createElement(r,{to:`/customer/${a}/create-seller-account`,type:"link"},"create-seller-account"))};export{l as default};
